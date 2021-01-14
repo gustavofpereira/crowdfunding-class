@@ -1,5 +1,5 @@
 <h1 align="center">
-:large_orange_diamond: .NET Crowdfunding: stack´s tests :large_orange_diamond:
+:large_orange_diamond: .NET Crowdfunding: tests stacks :large_orange_diamond:
 </h1>
 
 <h2 align="center">
