@@ -1,5 +1,5 @@
 <h1 align="center">
-:large_orange_diamond: Crowdfunding: C# practical approach :large_orange_diamond:
+:large_orange_diamond: .NET Crowdfunding: stack´s tests :large_orange_diamond:
 </h1>
 
 <h2 align="center">
@@ -7,8 +7,7 @@
 </h2>
 
 <p>
-This repository was created as part of bootcamp "Decola Dev <a href=https://www.avanade.com>Avanade</a> 2021" by Digital Innovation One with the objective to develop in this project reliable and structured C# applications with the best market practices.
-</p>
+This repository was created as part of bootcamp "Decola Dev <a href=https://www.avanade.com>Avanade</a> 2021" by Digital Innovation One with the objective to learn how to test a crowdfunding project (.Net core and MVC).
 
 ## :globe_with_meridians: Source
   
